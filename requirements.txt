@@ -1,0 +1,7 @@
+youtube_transcript_api
+pytube
+yt-dlp
+ffmpeg-python
+youtube-dl
+requests
+Pillow
