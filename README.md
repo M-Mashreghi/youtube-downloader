@@ -3,7 +3,7 @@
 [فارسی](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README_Persian.md) | [English](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README.md)
 
 
-Downloads videos and playlists and music and thumbnail with English subtitles from YouTube with the Colab.😉
+Downloads videos and playlists and music and thumbnail with English subtitles from YouTube with Colab.😉
 
 I created this for poor people who can't access Youtube and have bad Internet, countries like Iran. 🌍🇮🇷
 
