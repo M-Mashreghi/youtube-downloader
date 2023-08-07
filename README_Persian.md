@@ -3,11 +3,12 @@
 [فارسی](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README_Persian.md) | [English](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README.md)
 
 
-Downloads videos and playlists and music and thumbnail with English subtitles from YouTube with the Colab.😉
+دانلود ویدیوها، لیست‌های پخش، موزیک و تصویر بند انگلیسی‌ها از یوتیوب با استفاده از کولب. 😉
 
-I created this for poor people who can't access Youtube and have bad Internet, countries like Iran. 🌍🇮🇷
+این را برای افراد بدبخت ساختم که به یوتیوب دسترسی ندارند و اینترنت ضعیف و به شدت بی کیفیت دارند، مانند ایران. 🌍🇮🇷
 
-## Ways to use 🛠️
+
+## راه‌های استفاده 🛠️
 
 ### 1- using colab 💻
 
