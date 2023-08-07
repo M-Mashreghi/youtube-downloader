@@ -1,6 +1,6 @@
 # Youtube-Downloader 📹🎵🎞️
 
-[فارسی](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README_Persian.md) | [En](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README.md)
+[فارسی](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README_Persian.md) | [English](https://github.com/M-Mashreghi/youtube-downloader/blob/main/README.md)
 
 
 Downloads videos and playlists and music and thumbnail with English subtitles from YouTube with the Colab.😉
