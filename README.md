@@ -11,7 +11,7 @@ I created this for poor people who can't access Youtube and have bad Internet, c
 
 ### 1- using colab 💻
 
-For using google colab, you should open the Jupiter notebook by uploading it in Colab or click this <a href="https://colab.research.google.com/drive/1dconIRkgfD5byt2d_hXEqvbl7dghCmqZ?usp=sharing">
+For using google colab, you should open the Jupiter notebook by uploading it in Colab or click this <a href="https://colab.research.google.com/drive/1cQSbKsH1HMW6wHyO9O0U_iZU2iPLe6uR?usp=sharing">
     Link
 </a> which I share via colab to use directly without losing time.
 
